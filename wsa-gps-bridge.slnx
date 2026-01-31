@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WsaGpsBridge.Core/WsaGpsBridge.Core.csproj" />
+  <Project Path="WsaGpsBridge.Tests/WsaGpsBridge.Tests.csproj" />
+</Solution>
